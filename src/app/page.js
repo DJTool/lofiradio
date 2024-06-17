@@ -18,7 +18,7 @@ export default function Home() {
 
   
   return (<>
-  <GoogleAnalytics gaId="" />
+  <GoogleAnalytics gaId="G-4FW2NZVWLT" />
     <AudioPlayer src={path} onEnded={nextTrack} showJumpControls={false} customProgressBarSection={[]}
         customAdditionalControls={[]} customVolumeControls={[]} className="rounded-xl" />
   </>
