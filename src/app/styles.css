@@ -1,0 +1,29 @@
+.rhap_main-controls-button {
+    margin: 0 3px;
+    color: #415b6a;
+    font-size: 50px;
+    width: 50px;
+    height: 50px;
+  }
+
+  .rhap_controls-section {
+    width: 1px;
+    padding: 1px;
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+    justify-content: left;
+  }
+
+  .rhap_container {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    line-height: 1;
+    font-family: inherit;
+    width: 50%;
+    padding: 1px 1px;
+    background-color: transparent;
+    box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0.2);
+    
+  }
